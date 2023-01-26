@@ -37,8 +37,9 @@ function App() {
       date: new Date(2022, 6, 12),
       LocationOfExpenditure: "bangkok",
     },
+    
   ];
-
+ 
   return (
     <div>
       <h1>let's start</h1>
